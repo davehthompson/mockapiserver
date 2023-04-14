@@ -1,0 +1,32 @@
+{
+    "accounts": [
+      {
+        "id": 1,
+        "account_name": "Big Whale, Inc.",
+        "account_domain": "www.bigwhale.com",
+        "account_number": "29837298736",
+        "account_current_spend": "$46,745"
+      },
+      {
+        "id": 2,
+        "account_name": "Acme, Inc.",
+        "account_domain": "www.aceminc.com",
+        "account_number": "7636460676",
+        "account_current_spend": "$123,745"
+      },
+      {
+        "id": 3,
+        "account_name": "Service 4 You, LLC",
+        "account_domain": "www.services4you.com",
+        "account_number": "654309876",
+        "account_current_spend": "$3,543"
+      },
+      {
+        "id": 4,
+        "account_name": "We Deliver Everything",
+        "account_domain": "www.wde-company.com",
+        "account_number": "765987321",
+        "account_current_spend": "$84,324"
+      }
+    ]
+  }
